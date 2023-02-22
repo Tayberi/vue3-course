@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Тестовая статница about</h1>
+    <h1>Тестовая страница about</h1>
   </div>
 </template>
 

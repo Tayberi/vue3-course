@@ -2,7 +2,7 @@
   <div class="navbar">
     <div @click="$router.push('/')">Vue 3</div>
     <div class="navbar_btns">
-      <my-button @click="$router.push('/users')">Пользователи</my-button>
+      <my-button @click="$router.push('/posts')">Поcты</my-button>
       <my-button style="margin-left: 20px" @click="$router.push('/about')">О сайте</my-button>
     </div>
 
